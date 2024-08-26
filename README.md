@@ -1,6 +1,12 @@
 # Briefly
 
-🤖 Briefly is here to help you get the summary of any content! \n\n - Summarize articles, documents, audio, and more! \n - Get daily or recent news tailored to your interests. \n - Customize your settings for a personalized experience. \n\n Get started by pressing /start in [Telegram](https://t.me/super_briefly_bot)! 🚀
+🤖 Briefly is here to help you get the summary of any content! 
+
+- Summarize articles, documents, audio, and more!
+- Get daily or recent news tailored to your interests.
+- Customize your settings for a personalized experience.
+
+Get started by pressing /start in [Telegram](https://t.me/super_briefly_bot)! 🚀
 
 Our **slides** in [Canva](https://www.canva.com/design/DAGO4jHMrRc/fGaYHPVFq_3u1lZRSA1Ufw/edit?utm_content=DAGO4jHMrRc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
