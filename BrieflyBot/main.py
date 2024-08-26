@@ -448,7 +448,7 @@ class HandleContent:
                 # if does not exist, then create
                 response = requests.put(
                     SERVER_URL + "/user",
-                    json={
+                    params={
                         "first_name": user.first_name,
                         "last_name": user.last_name,
                         "username": user.username,
@@ -477,7 +477,7 @@ class HandleContent:
             bot.send_voice(
                 chat_id,
                 binary,
-                reply_markup=reply_markup,
+                reply_markup=markup,
                 reply_to_message_id=reply_to_message_id,
             )
         else:
@@ -485,7 +485,7 @@ class HandleContent:
                 chat_id,
                 text,
                 parse_mode="Markdown",
-                reply_markup=markup,
+                reply_markup=reply_markup,
                 reply_to_message_id=reply_to_message_id,
             )
 
