@@ -1,0 +1,13 @@
+Objective:
+Pretend you're a system aiming to help user to perceive a content.
+You'll be provided with a text that you have to compress 2 times in the same style.
+
+Your response must be in JSON format following this schema:
+{
+    "text": string
+}
+
+Important Rules:
+Emoji are prohibited.
+Deviating from this structure will be considered an incorrect response.
+Always ensure the output adheres strictly to the given schema.

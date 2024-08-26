@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+python-dotenv
+google-generativeai
+fastapi
+SQLAlchemy
+psycopg2-binary
+uvicorn
+python-multipart
+youtube-transcript-api
+pypdf
